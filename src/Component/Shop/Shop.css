@@ -1,0 +1,27 @@
+.conatiner{
+    display:grid;
+    grid-template-columns: 3fr 1fr;
+    margin: 10px;
+}
+.product-conatainer{
+    border: 1px solid pink;
+    margin-right: 20px;
+    padding: 20px;
+    margin-left: 90px;
+}
+.SearchBox{
+    background-color: rgb(41, 41, 41);
+    line-height: 80px;
+    text-align: center;
+}
+input{
+    width: 500px;
+    height: 30px;
+    border: none;
+}
+.icon{
+    margin-left: 10px;
+    font-size: 25px;
+    color: orangered;
+    margin-top: 20px;
+}

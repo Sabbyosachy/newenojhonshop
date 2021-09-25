@@ -1,0 +1,23 @@
+img{
+width: 200px;
+height: 180px;
+margin-right: 20px;
+}
+.allProduct{
+    display: flex;
+    border-bottom: 2px solid rgb(51, 51, 51);
+}
+.btn{
+    background-color: orange;
+    border: none;
+    width: 200px;
+    height: 40px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    font-weight: 700;
+    
+}
+.rate{
+    color:goldenrod;
+    margin-bottom: 5px;
+}

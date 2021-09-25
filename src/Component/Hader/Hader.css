@@ -1,0 +1,25 @@
+.header{
+    text-align: center;
+    margin-top: 20px;
+} 
+
+img{
+    width: 160px;
+    height: 40px;
+    margin-bottom: 0px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin: 30px;
+    padding: 5px;
+}
+.listIteam{
+    background-color:black;
+    line-height: 60px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.listIteam a:hover{
+    background-color: rgb(82, 82, 82);
+}
